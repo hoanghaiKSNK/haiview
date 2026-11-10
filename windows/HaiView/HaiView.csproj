@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows10.0.19041.0</TargetFramework>
+    <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>HaiView.App</StartupObject>
+    <ApplicationIcon>HaiView.ico</ApplicationIcon>
+    <AssemblyName>HaiView</AssemblyName>
+    <RootNamespace>HaiView</RootNamespace>
+    <Version>0.3.0</Version>
+    <Product>HaiView</Product>
+    <Description>Present several PDF or PowerPoint pages on one screen, in any layout.</Description>
+    <Copyright>MIT License</Copyright>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="HaiView.ico" />
+  </ItemGroup>
+</Project>

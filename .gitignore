@@ -1,0 +1,13 @@
+# Build output
+dist/
+macos/.build/
+macos/build/
+windows/build/
+windows/HaiView/bin/
+windows/HaiView/obj/
+
+# Editors and OS
+.DS_Store
+.vscode/
+.idea/
+*.user
