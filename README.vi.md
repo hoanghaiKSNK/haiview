@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/hero-2top1.png" width="860" alt="HaiView chiếu một đề 3 slide trên một màn hình">
+  <img src="docs/images/demo.gif" width="860" alt="HaiView đổi bố cục và lật sang đề kế tiếp">
 </p>
 
 ## Vì sao có HaiView?
@@ -96,6 +96,10 @@ Bố cục *2 trên, 1 dưới* cho mỗi slide rộng bằng nửa màn hình, 
 ```
 
 File đóng gói nằm trong thư mục `dist/`.
+
+## Góp ý
+
+Có ý tưởng hay muốn kể bạn dùng HaiView trong lớp thế nào, viết ở [Discussions](../../discussions). Gặp lỗi thì mở [Issues](../../issues). Nếu app có ích, bấm **Star** ⭐ ở đầu trang để giảng viên khác dễ tìm thấy.
 
 ## Giấy phép
 

@@ -17,7 +17,14 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/hero-2top1.png" width="860" alt="HaiView showing a three-slide quiz on one screen">
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/hoanghaiKSNK/haiview?label=download&color=2f80ed" alt="Latest release"></a>
+  <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows-555" alt="macOS and Windows">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="MIT license"></a>
+  <a href="../../stargazers"><img src="https://img.shields.io/github/stars/hoanghaiKSNK/haiview?style=social" alt="GitHub stars"></a>
+</p>
+
+<p align="center">
+  <img src="docs/images/demo.gif" width="860" alt="HaiView switching between layouts and flipping to the next quiz">
 </p>
 
 ## Why HaiView?
@@ -113,11 +120,11 @@ Packages land in `dist/`. The Mac app uses SwiftUI and PDFKit. The Windows app u
 - Presenter view: control on the laptop, clean output on the projector
 - Signed and notarized builds, Homebrew and winget packages
 
-Ideas and bug reports are welcome in [Issues](../../issues).
+Ideas are welcome in [Discussions](../../discussions), bug reports in [Issues](../../issues). Tell us how you teach with it: real classroom stories decide what comes next.
 
 ## About
 
-HaiView was made by a hospital infection control trainer who kept needing to show a three-slide quiz on one projector. If it helps your teaching, a star on GitHub helps other teachers find it.
+HaiView was made by a hospital infection control trainer who kept needing to show a three-slide quiz on one projector. If HaiView helps your teaching, please **star the repo** ⭐ at the top of this page. It is the easiest way to help other teachers find it.
 
 ## License
 
